@@ -1,0 +1,28 @@
+This is a list of known bugs and potential future features that I thought of,
+some points have a little description to go into detail if necessary.
+
+- : not yet started.
+~ : in progress (WIP)
++ : done (for now)
+/ : stopped/dropped (for now)
+
+Todo:
+ + A boss enemy?
+ - Improve enemy pathfinding
+ - More spells/abilities
+ - More enemies
+ - No aiming reticle, you have to rely on your characters rotation to aim at something
+ - No lock-on? not sure if I should add this or not keep changing my mind
+ / Stop the camera from clipping through walls (after trying for 1.5 days I have given up, fix this later)
+
+ + Give enemies HP bars
+ + Visual representation of skills (like cooldown time remaining for example)
+ + Enemies just kinda stand there like idiots doing nothing, give them behavior
+ + Able to cast all the skills at the same time, this should be limited to casting 1 ability at a time
+ + Player is able to move while casting a spell/using an ability, this shouldnt be happening? idk keep changing my mind on this
+ + There is no "win" condition yet (also no "lose" condition :^)) so you have to close down with Alt+F4
+ + No player health bar
+ + Spells/abilities are not effected by the Y orientation of the camera 
+   (^ this is not a bug but intended, but this ties in to the whole no reticle thing)
+ + Dodge mechanic? dash? 
+ 

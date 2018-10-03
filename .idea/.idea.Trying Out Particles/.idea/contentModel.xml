@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Teun van Laarhoven\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Trying Out Particles.88915451.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Teun van Laarhoven\Desktop\ICT HW\Unity\RandomProjects\Trying Out Particles" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Bosses" t="Include">
+          <e p="BossBehavior.cs" t="Include" />
+        </e>
+        <e p="CloseRoomSummonBoss.cs" t="Include" />
+        <e p="Enemies" t="Include">
+          <e p="BasicEnemyController.cs" t="Include" />
+          <e p="BasicEnemyMovement.cs" t="Include" />
+          <e p="BasicEnemySkillActivation.cs" t="Include" />
+        </e>
+        <e p="Player" t="Include">
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="PlayerSkillActivation.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AutoRemoveParticleSystems.cs" t="Include" />
+          <e p="Barrier.cs" t="Include" />
+          <e p="CameraControl.cs" t="Include" />
+          <e p="DamageAble.cs" t="Include" />
+          <e p="DestructableTerrain.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
+          <e p="TestScript.cs" t="Include" />
+        </e>
+        <e p="SkillSystemScripts" t="Include">
+          <e p="GenericSkillData.cs" t="Include" />
+          <e p="GenericSummonObjectSkillData.cs" t="Include" />
+          <e p="SimpleSummonObjectSkill.cs" t="Include" />
+          <e p="Skill.cs" t="Include" />
+        </e>
+        <e p="UIScripts" t="Include">
+          <e p="HealthBarScript.cs" t="Include" />
+          <e p="PlayerSkillUI.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Trying Out Particles.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
